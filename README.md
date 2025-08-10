@@ -1,6 +1,6 @@
 # Prediction of Fake Tweets Using Machine Learning Algorithms
 
-# Twitter Fake Tweets Detection
+# Twitter Fake Tweets Detection - Year:2020 | Capstone Team Project Bachelors
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
